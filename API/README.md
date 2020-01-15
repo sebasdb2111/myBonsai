@@ -1,6 +1,6 @@
 MyBonsai API REST
 =================
-Api Rest desarrollada en en PHP con el Framework Symfony la cual lleva la lógica para el cliente (en desarrollo)
+Api Rest desarrollada en en PHP con el Framework Symfony la cual lleva la lógica para el cliente
 
 
 IMPORTAR BASE DE DATOS
