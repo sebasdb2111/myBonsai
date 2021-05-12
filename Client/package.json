@@ -16,7 +16,7 @@
     "axios": "^0.18.0",
     "bootstrap": "^4.1.0",
     "bootstrap-vue": "^2.0.0-rc.8",
-    "chart.js": "^2.7.1",
+    "chart.js": "^2.9.4",
     "classnames": "^2.2.5",
     "font-awesome": "^4.7.0",
     "mdbootstrap": "^4.4.3",
